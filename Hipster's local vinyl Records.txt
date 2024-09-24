@@ -1,0 +1,5 @@
+Hipster's local vinyl Records
+Write a code to read the customers name, the number of kilometers distance, and the cost of any records published 
+$15 per kilometers
+14% sales tax on all purchases
+calculated costs: delivery cost, records cost(plus tax) and total cost.
