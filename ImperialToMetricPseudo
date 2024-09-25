@@ -1,0 +1,16 @@
+This program converts a weight given in imperial units (tons, stones, pounds, ounces)
+to the metric equivalent in metric tons, kilograms, and grams.
+
+input =
+tons = "Enter number of tons" (imperial)
+stones = "Enter number of stones" 
+pounds = "Enter number of pounds"
+ounces = "Enter number of ounces"
+
+calculate = 
+totalOunces = 35840 * tons + 224 * stones + 16 * pounds + ounces;
+totalKilos = totalOunces / 35.274;
+metricTons = totalKilos /1000
+remainingKilos = totalKilos - metric tons * 1000
+kilos =  remainingkilos 
+grams = remainingKilos - kilos * 1000

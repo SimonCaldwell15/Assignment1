@@ -17,7 +17,7 @@ function main()
         
 
 
-    //Processin
+    //Processing
 
     var moneyPerKm = distances * 15
     let deliveryCost = moneyPerKm.toFixed(2);

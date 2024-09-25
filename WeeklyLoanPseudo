@@ -1,0 +1,16 @@
+This program calculates the weekly payment for a loan based on user input.
+
+input = 
+loan = "Enter the loan ammount in dollars"
+interest = "Enter the annual interest rate in %"
+number = "Enter the number of years for the loan"
+
+
+calculate =
+i = interest / 5200; (weekly interest rate )
+N = 52 * number;     (total number of weekly statements)
+denominator = 1
+weeklyPayment = i * loan / denominator
+weeklyPayment = weeklyPayment
+
+output = "your weekly payment will be: " + weeklyPayment

@@ -1,5 +1,7 @@
 "use strict";
-
+//Simon Caldwell
+//W0304743
+//Assignment 1 
 
 // Short-Term Loan Calculator
 // This program calculates the weekly payment for a loan based on user input.
